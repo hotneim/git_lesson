@@ -1,6 +1,6 @@
 # Headline
 
-x <- rnorm(500)
+x <- rnorm(400)  # Bugfix in fork
 y <- rnorm(500)
 
 # Important feature
@@ -9,3 +9,5 @@ y <- rnorm(500)
 # New feature - adding something
 # Some more work for github
 # Offline edit
+
+
