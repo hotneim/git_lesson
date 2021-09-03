@@ -1,7 +1,5 @@
 Readme file
 
-
-Edited by my colleague - Making 
-
+Edited by my colleague
 
 Edit again
