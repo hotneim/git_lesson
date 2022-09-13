@@ -1,4 +1,4 @@
 Readme file
 
-Edited by my colleague - edited once again -- and again
+Edited by my colleague - edited once again --
 
